@@ -95,4 +95,5 @@ class MealDetailScreen extends StatelessWidget {
       ),
     );
   }
+  //When we go back after unfavoriting it is still there - good exercise to handle statess
 }
